@@ -11,3 +11,11 @@ I can barely do HTML and CSS but have coded in Dreamweaver before way back when 
 
 ## Career Goals
 I have my own company called <a href="http://www.the954.com">The Nine Five Four</a>, which is a small boutique design agency in South Florida. I plan on doing that on the side for the next several years and working the next 28 years at CDC before retiring.
+
+### List of Goals
+<ol>
+  <li>Graduate with Masters degree in Digital Strategy/Communications</li>
+  <li>Obtain a Web Design Certification</li>
+  <li>Learn how to code to the best of my abilities</li>
+  <li> Apply the knowledge obtained from my classes to running a successful side business</li>
+</ol>
