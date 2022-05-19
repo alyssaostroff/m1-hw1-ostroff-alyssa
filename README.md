@@ -10,4 +10,4 @@ My name is Alyssa Ostroff, and I am a Visual Information Specialist for the Cent
 I can barely do HTML and CSS but have coded in Dreamweaver before way back when that was the popular program. I currently utilize Webflow to do most of my web designing for clients.
 
 ## Career Goals
-I have my own company called The Nine Five Four, which is a small boutique design agency in South Florida. I plan on doing that on the side for the next several years and working the next 28 years at CDC before retiring.
+I have my own company called <a href="www.the954.com">The Nine Five Four</a>, which is a small boutique design agency in South Florida. I plan on doing that on the side for the next several years and working the next 28 years at CDC before retiring.
