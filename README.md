@@ -1,5 +1,5 @@
 # My First Coding Assignment
-<p align="center">
+<p align="left">
   <img src="https://scontent.fmia1-2.fna.fbcdn.net/v/t39.30808-6/274156838_5281932611817441_1919460633437541835_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xnjXhYW1mFwAX8tgm_h&tn=V3o1tW8kF7GQzHDy&_nc_ht=scontent.fmia1-2.fna&oh=00_AT9Igi6enxXlrFsOc3RugLVEQboiBaPFmZZjmNqtJjCGyQ&oe=628B8126" width="500" title="Alyssa Ostroff">
 </p>
 
